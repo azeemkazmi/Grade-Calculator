@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table,
+  th,
+  td,
+  tr {
+    border: 1px solid #000;
+    height: 50px;
+  }
+  
+  .tblHeading {
+    background: #4CAF50;
+    color: #fff;
+  }
+  
+  .btnSubmit {
+    background: #4CAF50;
+    padding: 15px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  ;  
